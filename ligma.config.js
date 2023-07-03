@@ -4,8 +4,6 @@ module.exports = {
         "LRU",
         "SinglyLinkedList",
         "DoublyLinkedList",
-        "Queue",
-        "Stack",
         "ArrayList",
         "MazeSolver",
         "QuickSort",
